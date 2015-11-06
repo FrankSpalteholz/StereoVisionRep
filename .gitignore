@@ -65,4 +65,4 @@ $RECYCLE.BIN/
 *.lnk
 
 # include meta files
-!*.*.meta
+*.*.meta
